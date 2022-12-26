@@ -1,0 +1,17 @@
+
+.menu{
+    display: flex;
+    padding-right: 1.5rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu .icon{
+    margin-right: 1.5rem;
+    width: 23px;
+    height: 23px;
+}
+
+.menu .icon:hover{
+    cursor: pointer;
+}
